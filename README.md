@@ -46,24 +46,6 @@ ETC
 
 
 <!-- **YOUR_USERNAME** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile. Here are some ideas to get you started: - Hi there 👋 - 🔭 I’m currently working on a Python web app for restaurant management. - 🌱 I’m currently learning backend frameworks and database design. - 👯 I’m looking to collaborate on open-source projects for beginners. - 🤔 I’m looking for help with code reviews. - 💬 Ask me about web development and Python. - 📫 How to reach me: yourmail@domain.com - ⚡ Fun fact: I love taking photos and exploring new cafes! --> </div>
-This template highlights your learning journey, current skills, and personal interests while keeping the tone friendly and approachable—perfect for a beginner developer’s GitHub profile.
-
-username은 suhyeon2025야
-
-Here’s your customized GitHub README template with your username set as suhyeon2025. You can copy and use this directly in your profile README.md.
-
-<div> <!--Header--> </div> <div> <!--Body-->
-👀 About Me
-:raising_hand: I am a beginner developer who is passionate about learning and solving real-world problems.
-:fire: My goal is to become a full-stack developer who creates meaningful projects and helps others with technology.
-:mortar_board: Currently studying web development, focusing on backend and databases.
-
-I work in a restaurant and hope to develop programs that help in real business situations.
-
-I enjoy learning by tackling challenges directly.
-
-In my free time, I love photography and exploring new cafes!
-
 
 🌱 Currently Learning
 Flask, Django, AWS basics
