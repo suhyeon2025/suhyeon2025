@@ -22,8 +22,6 @@ Web front-end and basic UI/UX principles
 💬 Ask Me About
 Python, JavaScript, or web development
 
-Ideas for applications used in customer service and the restaurant industry
-
 
 📫 How to reach me
 Email: 6383psh@gmail.com
