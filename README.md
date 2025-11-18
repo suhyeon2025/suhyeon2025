@@ -26,7 +26,7 @@ Ideas for applications used in customer service and the restaurant industry
 
 
 📫 How to reach me
-Email: yourmail@domain.com
+Email: 6383psh@gmail.com
 
 Happy to connect and answer any questions!
 
