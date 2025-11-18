@@ -4,7 +4,7 @@
 :fire: My goal is to become a full-stack developer who creates meaningful projects and helps others with technology.
 :mortar_board: Currently studying web development, focusing on backend and databases.
 
-I work in a restaurant and hope to develop programs that help in real business situations.
+I worked in a restaurant and hope to develop programs that help in real business situations.
 
 I enjoy learning by tackling challenges directly.
 
